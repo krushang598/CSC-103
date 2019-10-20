@@ -136,6 +136,6 @@ int main()
   }
   else
   {
-    cout << "Human won";
+    cout << "Human won"; 
   }
 }
